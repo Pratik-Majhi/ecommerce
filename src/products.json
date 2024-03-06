@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "image": "https://example.com/headphones.jpg",
+      "price": 49.99,
+      "description": "Experience the freedom of wireless listening with these high-quality headphones. Enjoy crisp, clear sound without the hassle of tangled cords."
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "image": "https://example.com/smartphone.jpg",
+      "price": 599.99,
+      "description": "Stay connected with the latest smartphone technology. Featuring a high-resolution display, powerful camera, and long-lasting battery life."
+    },
+    {
+      "id": 3,
+      "name": "Fitness Tracker",
+      "image": "https://example.com/fitnesstracker.jpg",
+      "price": 79.99,
+      "description": "Track your fitness goals with precision using this advanced fitness tracker. Monitor your heart rate, steps taken, calories burned, and more."
+    },
+    {
+      "id": 4,
+      "name": "Coffee Maker",
+      "image": "https://example.com/coffeemaker.jpg",
+      "price": 29.99,
+      "description": "Brew the perfect cup of coffee every time with this easy-to-use coffee maker. Its sleek design and programmable features make it a must-have for any kitchen."
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "image": "https://example.com/speaker.jpg",
+      "price": 39.99,
+      "description": "Bring your music to life with this portable Bluetooth speaker. Enjoy rich, immersive sound quality whether you're at home or on the go."
+    },
+    {
+      "id": 6,
+      "name": "Smartwatch",
+      "image": "https://example.com/smartwatch.jpg",
+      "price": 149.99,
+      "description": "Stay connected and organized with this sleek smartwatch. Receive notifications, track your workouts, and monitor your health with ease."
+    },
+    {
+      "id": 7,
+      "name": "Digital Camera",
+      "image": "https://example.com/camera.jpg",
+      "price": 299.99,
+      "description": "Capture life's moments in stunning detail with this high-performance digital camera. With advanced features and intuitive controls, it's perfect for both beginners and enthusiasts."
+    },
+    {
+      "id": 8,
+      "name": "Laptop",
+      "image": "https://example.com/laptop.jpg",
+      "price": 899.99,
+      "description": "Get the power and performance you need for work or play with this reliable laptop. Featuring a fast processor, high-resolution display, and long battery life."
+    },
+    {
+      "id": 9,
+      "name": "Wireless Mouse",
+      "image": "https://example.com/mouse.jpg",
+      "price": 19.99,
+      "description": "Say goodbye to tangled wires with this sleek wireless mouse. Its ergonomic design and precision tracking make it ideal for both work and gaming."
+    },
+    {
+      "id": 10,
+      "name": "Portable Charger",
+      "image": "https://example.com/portablecharger.jpg",
+      "price": 24.99,
+      "description": "Never run out of battery again with this convenient portable charger. Compact and lightweight, it's perfect for keeping your devices powered up on the go."
+    }
+  ]
